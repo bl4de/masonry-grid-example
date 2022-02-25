@@ -9,8 +9,8 @@ Example of masonry grid implementation
 
 ```
 composer config minimum-stability dev
-composer config repositories.masonry-grid-example vcs git@github.com:sivaschenko/masonry-grid-example.git
-composer require sivaschenko/module-masonry-grid-example
+composer config repositories.masonry-grid-example vcs git@github.com:bl4de/masonry-grid-example.git
+composer require bl4de/module-masonry-grid-example
 ```
     
 - Execute the following magento commands:

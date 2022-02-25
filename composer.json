@@ -1,5 +1,5 @@
 {
-    "name": "sivaschenko/module-masonry-grid-example",
+    "name": "bl4de/module-masonry-grid-example",
     "description": "Magento masonry grid example",
     "require": {
         "php": "~7.3.0|~7.4.0",
